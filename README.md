@@ -149,17 +149,7 @@ pip install -r requirements.txt
 
 ---
 
-## Data
-
-The dataset is hosted on Kaggle:  
-[`faroukfadelbrachemi/data4econ`](https://www.kaggle.com/datasets/faroukfadelbrachemi/data4econ)
-
-Set `DATA_DIR` in the notebook to point to your local copy or Kaggle input path.
-
----
-
 ## Author
 
 **Farouk Fadel Brachemi**  
 M.Sc. Computing for Data Science — Free University of Bozen-Bolzano  
-AI Engineer Intern — Volt LOGIQ, Bolzano
